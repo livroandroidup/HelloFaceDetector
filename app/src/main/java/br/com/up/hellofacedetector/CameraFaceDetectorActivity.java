@@ -1,9 +1,5 @@
 package br.com.up.hellofacedetector;
 
-import java.io.File;
-
-import br.livroandroid.utils.ImageUtils;
-import br.livroandroid.utils.SDCardUtils;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -22,6 +18,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
+
+import java.io.File;
+
+import br.livroandroid.utils.ImageUtils;
+import br.livroandroid.utils.SDCardUtils;
 
 /**
  * http://www.edumobile.org/android/android-programming-tutorials/face-detection-example-tutorials-in-android/

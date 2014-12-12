@@ -1,10 +1,10 @@
 package br.livroandroid.utils;
 
+import android.util.Log;
+
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-
-import android.util.Log;
 
 public class IOUtils {
 	private static final String TAG = "IOUtils";
